@@ -1,3 +1,10 @@
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="DarrenOdden" data-slug-hash="VwaZroM" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Daily UI #6 - Profile">
+  <span>See the Pen <a href="https://codepen.io/DarrenOdden/pen/VwaZroM">
+  Daily UI #6 - Profile</a> by Darren Odden (<a href="https://codepen.io/DarrenOdden">@DarrenOdden</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 ### Hi there 👋
 
 <!--
