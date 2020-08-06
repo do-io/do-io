@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/do-io/dbd-gatsby-multilang/master/src/images/logo-DbD_2020_red_dk.svg?token=AABZPPWULK6FTDFZ6ACVQNS7GXHJG" width="150" align="center">
+![Darren by Design](https://raw.githubusercontent.com/do-io/dbd-gatsby-multilang/master/src/images/logo-DbD_2020_red_dk.svg?token=AABZPPWULK6FTDFZ6ACVQNS7GXHJG | width=200px)
 
 ### Hi there 👋
 
