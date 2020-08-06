@@ -1,3 +1,5 @@
+<img src="./src/images/logo-DbD_2020_red_dk.svg" width="150" align="center">
+
 ### Hi there 👋
 
 <!--
