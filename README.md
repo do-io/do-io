@@ -1,4 +1,4 @@
-<img src="./src/images/logo-DbD_2020_red_dk.svg" width="150" align="center">
+<img src="https://raw.githubusercontent.com/do-io/dbd-gatsby-multilang/master/src/images/logo-DbD_2020_red_dk.svg?token=AABZPPWULK6FTDFZ6ACVQNS7GXHJG" width="150" align="center">
 
 ### Hi there 👋
 
