@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/do-io/dbd-gatsby-multilang/master/src/images/logo-DbD_2020_red_dk.svg" width="300px" title="Darren by Design" /> <img src="https://avatars2.githubusercontent.com/u/235454?s=460&u=6f0f5bec3e1f5d3d0656d896b8de9e5fbab40680&v=4" title="developer & designer" align="right" />
+<img src="https://raw.githubusercontent.com/do-io/dbd-gatsby-multilang/master/src/images/logo-DbD_2020_red_dk.svg" width="150px" title="Darren by Design" /> <img src="https://avatars2.githubusercontent.com/u/235454?s=460&u=6f0f5bec3e1f5d3d0656d896b8de9e5fbab40680&v=4" title="developer & designer" align="right" />
 
 ### Hi there 👋
 
