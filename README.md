@@ -1,5 +1,3 @@
-<img src="https://avatars2.githubusercontent.com/u/235454?s=460&u=6f0f5bec3e1f5d3d0656d896b8de9e5fbab40680&v=4" title="developer & designer" align="right" width="150" />
-
 # Hi there, I'm Darren! 👋
 
 I'm a **Software Developer & Web Architect** focused on building clean, scalable, and high-performing applications for the modern web. 
