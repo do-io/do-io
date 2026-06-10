@@ -30,13 +30,13 @@ When I'm not pushing commits, you can usually find me:
 * Camping and exploring the mountains in a travel trailer with my family.
 * Tackling the daily crossword puzzle.
 * Checking out classic hip-hop history and wild-style graffiti art.
-* Cheering on the Steelers, Seahawks, and Cubs.
+* Cheering on the Steelers and the Cubs.
 
 ---
 
 ### 📫 Connect with Me
 * **Website:** [dophp.dev](https://dophp.dev)
-* **LinkedIn:** [Darren Odden](https://linkedin.com/in/darren.odden)
+* **LinkedIn:** [Darren Odden](https://www.linkedin.com/in/darren-odden)
 
 <!--
 **do-io/do-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
